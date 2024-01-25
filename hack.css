@@ -1,0 +1,40 @@
+h1{
+    text-align: center;
+    background-color: black;
+    justify-self: auto;
+    color:palevioletred;
+
+}
+p{
+    color: red;
+    background-color: black;
+    border-left: 0;
+}
+button{
+    background-color: red;
+    padding: 2pc;
+    border-radius: 20px;
+    text-align: center;
+}
+image{
+       
+        max-width: 100%;
+        height: auto;
+}
+button:hover{
+    background-color: green;
+    text-align: center;
+    text-align: left;
+}
+input{
+    background-color: red;
+}
+input:hover{
+    background-color: blue;
+}
+input{
+    background-color: aliceblue;
+}
+button{
+    padding: 2pc;
+}
